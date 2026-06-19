@@ -1,14 +1,23 @@
-# Creating-configuring-and-Troubleshooting-a-Network
+## Overview
 
+This repository contains hands-on networking labs completed using Cisco Packet Tracer to simulate real-world network environments.
 
-
-This repository contains hands-on networking labs I completed to build practical experience with networking concepts and real-world scenarios.
+Each lab focuses on building, configuring, and troubleshooting networks to develop practical experience in networking fundamentals.
 
 ## Skills Demonstrated
+
 - TCP/IP and subnetting
 - VLAN configuration and segmentation
-- Inter-VLAN routing
-- DHCP configuration
-- Network troubleshooting
+- Inter-VLAN routing (router-on-a-stick)
+- DHCP configuration and automation
+- Network troubleshooting and diagnostics
 
-Building a network, configuring the network to perform certain tasks, breaking the same network in various ways, only to come back and fix it.
+## Key Focus
+
+These labs simulate real-world networking tasks, including configuring network devices, isolating issues, and resolving connectivity problems using a structured troubleshooting approach.
+
+## Tools Used
+
+- Cisco Packet Tracer
+- Command Line Interface (CLI)
+- Ping and Traceroute utilities
